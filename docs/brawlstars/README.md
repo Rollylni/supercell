@@ -9,7 +9,7 @@
 | Parameter | Description  |  Type  |
 |-----------|--------------|--------|
 |  token    | your access  | String |
-              token
+            |  token       |
 ## usage
 ```python
 from supercel import BrawlStars
