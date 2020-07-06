@@ -2,7 +2,7 @@
 
 # Supercell API
 [![python](https://img.shields.io/pypi/pyversions/supercell-step?color=blue&style=for-the-badge)](https://pypi.org/project/supercel/) 
-[![PyPi](https://img.shields.io/pypi/v/supercel?color=green&style=for-the-badge)](https://pypi.org/project/supercel/)
+[![PyPi](https://img.shields.io/pypi/v/supercel?color=blue&style=for-the-badge)](https://pypi.org/project/supercel/)
 [![downloads](https://img.shields.io/pypi/dm/supercel?style=for-the-badge)](https://pypi.org/project/supercel/)
 [![license](https://img.shields.io/github/license/Rollylni/supercell?color=aqua&style=for-the-badge)](https://pypi.org/project/supercel/)
 
