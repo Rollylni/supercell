@@ -8,8 +8,8 @@
 
 | Parameter | Description  |  Type  |
 |-----------|--------------|--------|
-|  token    | your access  | String |
-            |  token       |
+|  token    | your access token api  | String |
+     
 ## usage
 ```python
 from supercel import BrawlStars
