@@ -10,10 +10,11 @@ Python library for working with **supercellAPI**
 
 ## Installation
 ```sh
-  $ pip3 install supercel
+  pip3 install supercel
 ```
 
 ## Documentation
-  * [Brawl Stars API](./docs/brawlstars/README.md)
-  * [Clash Royale API](./docs/clashroyale/README.md)
-  * [Clash of Clans API](./docs/clashofclans/README.md) 
+  * [Supercell](https://supercell.com)
+    * [BrawL Stars API](./docs/brawlstars.md)
+    * [Clash Royale API](./docs/clashroyale.md)
+    * [Clash of Clans API](./docs/clashofclans.md) 
