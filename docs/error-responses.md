@@ -3,7 +3,7 @@
 [failed request schema](https://github.com/Rollylni/supercell/blob/master/schemas/error_response-schema.json)
 
 ### Error Model
-```kotlin
+```java
 ClientError {
 reason (string, optional),
 message (string, optional),
