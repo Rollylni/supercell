@@ -1,1 +1,6 @@
-
+{
+  "reason": "string",
+  "message": "string",
+  "type": "string",
+  "detail": {}
+}
