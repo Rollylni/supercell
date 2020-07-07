@@ -1,0 +1,21 @@
+Metadata-Version: 1.1
+Name: supercel
+Version: 1.1.0
+Summary:  Python library for working with supercellAPI
+
+Home-page: https://github.com/Rollylni/supercell
+Author: RoLLy
+Author-email: dimadersekt@gmail.com
+License: MIT License
+Description: UNKNOWN
+Keywords: supercel
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: License :: MIT License
+Classifier: Programming Language :: Python :: 3 :: Only
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Operating System :: POSIX :: Linux
+Classifier: Operating System :: Unix
+Classifier: Intended Audience :: Developers
+Classifier: Natural Language :: English
