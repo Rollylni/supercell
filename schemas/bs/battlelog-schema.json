@@ -1,0 +1,11 @@
+[
+  {
+    "battle": {},
+    "battleTime": "string",
+    "event": {
+      "mode": "string",
+      "id": 0,
+      "map": {}
+    }
+  }
+]

@@ -1,0 +1,9 @@
+[
+  {
+    "tag": "string",
+    "name": "string",
+    "trophies": 0,
+    "role": "string",
+    "nameColor": "string"
+  }
+]
