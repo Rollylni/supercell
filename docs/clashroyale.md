@@ -104,7 +104,7 @@ if the request failed, then it returns an [error scheme](https://github.com/Roll
 
 
 
-**:returns:** after a successful request, returns a [ResponseObject](./ResponseObject.md) with the [schema](https://github.com/Rollylni/supercell/blob/master/schemas/cr/clan-warlog-schema.json),
+**:returns:** after a successful request, returns a [ResponseObject](./ResponseObject.md) with the [schema](https://github.com/Rollylni/supercell/blob/master/schemas/cr/clan_warlog-schema.json),
 
 if the request failed, then it returns an [error scheme](https://github.com/Rollylni/supercell/blob/master/schemas/error_response-schema.json) 
 
