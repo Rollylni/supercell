@@ -1,0 +1,38 @@
+{
+  "state": "string",
+  "clan": {
+    "tag": "string",
+    "clanScore": 0,
+    "crowns": 0,
+    "badgeId": 0,
+    "name": "string",
+    "participants": 0,
+    "battlesPlayed": 0,
+    "wins": 0
+  },
+  "participants": [
+    {
+      "tag": "string",
+      "name": "string",
+      "cardsEarned": 0,
+      "battlesPlayed": 0,
+      "wins": 0,
+      "collectionDayBattlesPlayed": 0,
+      "numberOfBattles": 0
+    }
+  ],
+  "clans": [
+    {
+      "tag": "string",
+      "clanScore": 0,
+      "crowns": 0,
+      "badgeId": 0,
+      "name": "string",
+      "participants": 0,
+      "battlesPlayed": 0,
+      "wins": 0
+    }
+  ],
+  "collectionEndTime": "string",
+  "warEndTime": "string"
+}

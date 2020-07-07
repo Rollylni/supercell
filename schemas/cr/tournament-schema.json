@@ -1,0 +1,36 @@
+{
+  "membersList": [
+    {
+      "clan": {
+        "badgeId": 0,
+        "tag": "string",
+        "name": "string",
+        "badgeUrls": {}
+      },
+      "rank": 0,
+      "previousRank": 0,
+      "tag": "string",
+      "name": "string",
+      "score": 0
+    }
+  ],
+  "status": "string",
+  "preparationDuration": 0,
+  "createdTime": "string",
+  "startedTime": "string",
+  "endedTime": "string",
+  "firstPlaceCardPrize": 0,
+  "gameMode": {
+    "id": 0,
+    "name": "string"
+  },
+  "duration": 0,
+  "type": "string",
+  "tag": "string",
+  "creatorTag": "string",
+  "name": "string",
+  "description": "string",
+  "capacity": 0,
+  "maxCapacity": 0,
+  "levelCap": 0
+}

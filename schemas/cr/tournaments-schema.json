@@ -1,0 +1,21 @@
+[
+  {
+    "status": "string",
+    "preparationDuration": 0,
+    "createdTime": "string",
+    "firstPlaceCardPrize": 0,
+    "gameMode": {
+      "id": 0,
+      "name": "string"
+    },
+    "duration": 0,
+    "type": "string",
+    "tag": "string",
+    "creatorTag": "string",
+    "name": "string",
+    "description": "string",
+    "capacity": 0,
+    "maxCapacity": 0,
+    "levelCap": 0
+  }
+]

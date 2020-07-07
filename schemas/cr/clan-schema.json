@@ -1,0 +1,44 @@
+{
+  "memberList": [
+    {
+      "arena": {
+        "name": {},
+        "id": 0,
+        "iconUrls": {}
+      },
+      "clanChestPoints": 0,
+      "lastSeen": "string",
+      "tag": "string",
+      "name": "string",
+      "role": "string",
+      "expLevel": 0,
+      "trophies": 0,
+      "clanRank": 0,
+      "previousClanRank": 0,
+      "donations": 0,
+      "donationsReceived": 0
+    }
+  ],
+  "badgeId": 0,
+  "tag": "string",
+  "donationsPerWeek": 0,
+  "clanChestStatus": "string",
+  "clanChestLevel": 0,
+  "clanChestMaxLevel": 0,
+  "clanWarTrophies": 0,
+  "requiredTrophies": 0,
+  "clanScore": 0,
+  "name": "string",
+  "location": {
+    "localizedName": "string",
+    "id": 0,
+    "name": "string",
+    "isCountry": true,
+    "countryCode": "string"
+  },
+  "type": "string",
+  "members": 0,
+  "description": "string",
+  "clanChestPoints": 0,
+  "badgeUrls": {}
+}

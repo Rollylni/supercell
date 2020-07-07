@@ -1,0 +1,64 @@
+[
+  {
+    "gameMode": {
+      "id": 0,
+      "name": "string"
+    },
+    "maxLosses": 0,
+    "minExpLevel": 0,
+    "tournamentLevel": 0,
+    "milestoneRewards": [
+      {
+        "chest": "string",
+        "rarity": "string",
+        "resource": "string",
+        "type": "string",
+        "amount": 0,
+        "card": {
+          "iconUrls": {},
+          "name": {},
+          "id": 0,
+          "maxLevel": 0
+        },
+        "wins": 0
+      }
+    ],
+    "freeTierRewards": [
+      {
+        "chest": "string",
+        "rarity": "string",
+        "resource": "string",
+        "type": "string",
+        "amount": 0,
+        "card": {
+          "iconUrls": {},
+          "name": {},
+          "id": 0,
+          "maxLevel": 0
+        },
+        "wins": 0
+      }
+    ],
+    "tag": "string",
+    "title": "string",
+    "startTime": "string",
+    "endTime": "string",
+    "topRankReward": [
+      {
+        "chest": "string",
+        "rarity": "string",
+        "resource": "string",
+        "type": "string",
+        "amount": 0,
+        "card": {
+          "iconUrls": {},
+          "name": {},
+          "id": 0,
+          "maxLevel": 0
+        },
+        "wins": 0
+      }
+    ],
+    "maxTopRewardRank": 0
+  }
+]

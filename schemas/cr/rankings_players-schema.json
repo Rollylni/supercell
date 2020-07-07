@@ -1,0 +1,21 @@
+[
+  {
+    "clan": {
+      "badgeId": 0,
+      "tag": "string",
+      "name": "string",
+      "badgeUrls": {}
+    },
+    "arena": {
+      "name": {},
+      "id": 0,
+      "iconUrls": {}
+    },
+    "tag": "string",
+    "name": "string",
+    "expLevel": 0,
+    "rank": 0,
+    "previousRank": 0,
+    "trophies": 0
+  }
+]

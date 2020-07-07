@@ -1,0 +1,82 @@
+[
+  {
+    "gameMode": {
+      "id": 0,
+      "name": "string"
+    },
+    "arena": {
+      "name": {},
+      "id": 0,
+      "iconUrls": {}
+    },
+    "type": "string",
+    "deckSelection": "string",
+    "team": [
+      {
+        "clan": {
+          "badgeId": 0,
+          "tag": "string",
+          "name": "string",
+          "badgeUrls": {}
+        },
+        "cards": [
+          {
+            "id": 0,
+            "count": 0,
+            "level": 0,
+            "starLevel": 0,
+            "name": {},
+            "maxLevel": 0,
+            "iconUrls": {}
+          }
+        ],
+        "tag": "string",
+        "name": "string",
+        "startingTrophies": 0,
+        "trophyChange": 0,
+        "crowns": 0,
+        "kingTowerHitPoints": 0,
+        "princessTowersHitPoints": [
+          0
+        ]
+      }
+    ],
+    "opponent": [
+      {
+        "clan": {
+          "badgeId": 0,
+          "tag": "string",
+          "name": "string",
+          "badgeUrls": {}
+        },
+        "cards": [
+          {
+            "id": 0,
+            "count": 0,
+            "level": 0,
+            "starLevel": 0,
+            "name": {},
+            "maxLevel": 0,
+            "iconUrls": {}
+          }
+        ],
+        "tag": "string",
+        "name": "string",
+        "startingTrophies": 0,
+        "trophyChange": 0,
+        "crowns": 0,
+        "kingTowerHitPoints": 0,
+        "princessTowersHitPoints": [
+          0
+        ]
+      }
+    ],
+    "challengeWinCountBefore": 0,
+    "battleTime": "string",
+    "challengeId": 0,
+    "tournamentTag": "string",
+    "challengeTitle": "string",
+    "replayTag": "string",
+    "isLadderTournament": true
+  }
+]

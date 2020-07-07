@@ -1,0 +1,19 @@
+[
+  {
+    "clanScore": 0,
+    "badgeId": 0,
+    "location": {
+      "localizedName": "string",
+      "id": 0,
+      "name": "string",
+      "isCountry": true,
+      "countryCode": "string"
+    },
+    "members": 0,
+    "tag": "string",
+    "name": "string",
+    "rank": 0,
+    "previousRank": 0,
+    "badgeUrls": {}
+  }
+]

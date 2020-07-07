@@ -1,1 +1,100 @@
-
+{
+  "clan": {
+    "badgeId": 0,
+    "tag": "string",
+    "name": "string",
+    "badgeUrls": {}
+  },
+  "arena": {
+    "name": {},
+    "id": 0,
+    "iconUrls": {}
+  },
+  "role": "string",
+  "wins": 0,
+  "losses": 0,
+  "totalDonations": 0,
+  "leagueStatistics": {
+    "previousSeason": {
+      "rank": 0,
+      "trophies": 0,
+      "bestTrophies": 0,
+      "id": "string"
+    },
+    "currentSeason": {
+      "rank": 0,
+      "trophies": 0,
+      "bestTrophies": 0,
+      "id": "string"
+    },
+    "bestSeason": {
+      "rank": 0,
+      "trophies": 0,
+      "bestTrophies": 0,
+      "id": "string"
+    }
+  },
+  "cards": [
+    {
+      "id": 0,
+      "count": 0,
+      "level": 0,
+      "starLevel": 0,
+      "name": {},
+      "maxLevel": 0,
+      "iconUrls": {}
+    }
+  ],
+  "currentFavouriteCard": {
+    "iconUrls": {},
+    "name": {},
+    "id": 0,
+    "maxLevel": 0
+  },
+  "badges": [
+    {
+      "maxLevel": 0,
+      "progress": 0,
+      "target": 0,
+      "level": 0,
+      "name": "string"
+    }
+  ],
+  "tag": "string",
+  "name": "string",
+  "expLevel": 0,
+  "trophies": 0,
+  "bestTrophies": 0,
+  "donations": 0,
+  "donationsReceived": 0,
+  "achievements": [
+    {
+      "stars": 0,
+      "value": 0,
+      "name": {},
+      "target": 0,
+      "info": {},
+      "completionInfo": {}
+    }
+  ],
+  "battleCount": 0,
+  "threeCrownWins": 0,
+  "challengeCardsWon": 0,
+  "challengeMaxWins": 0,
+  "tournamentCardsWon": 0,
+  "tournamentBattleCount": 0,
+  "currentDeck": [
+    {
+      "id": 0,
+      "count": 0,
+      "level": 0,
+      "starLevel": 0,
+      "name": {},
+      "maxLevel": 0,
+      "iconUrls": {}
+    }
+  ],
+  "warDayWins": 0,
+  "clanCardsCollected": 0,
+  "starPoints": 0
+}

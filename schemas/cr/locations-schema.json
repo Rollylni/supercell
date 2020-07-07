@@ -1,0 +1,9 @@
+[
+  {
+    "localizedName": "string",
+    "id": 0,
+    "name": "string",
+    "isCountry": true,
+    "countryCode": "string"
+  }
+]
