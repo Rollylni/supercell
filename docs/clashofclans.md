@@ -201,7 +201,7 @@ if the request failed, then it returns an [error scheme](https://github.com/Roll
 [leagues](https://github.com/Rollylni/supercell/blob/master/schemas/coc/leagues-schema.json),
 [league seasons](https://github.com/Rollylni/supercell/blob/master/schemas/coc/league_seasons-schema.json),
 [league season](https://github.com/Rollylni/supercell/blob/master/schemas/coc/league_season-schema.json),
-[war league](https://github.com/Rollylni/supercell/blob/master/schemas/coc/warleague-schema.son),
+[war league](https://github.com/Rollylni/supercell/blob/master/schemas/coc/warleague-schema.json),
 [war leagues](https://github.com/Rollylni/supercell/blob/master/schemas/coc/warleagues-schema.json),
 
 if the request failed, then it returns an [error scheme](https://github.com/Rollylni/supercell/blob/master/schemas/error_response-schema.json) 
