@@ -11,7 +11,7 @@ response = api.get_player("#PLGQ2RJV2")
 
 name = response.get("name")
 trophies = response.get("trophies")
-club = response.get("club.tag")
+club = response.get("club.tag") #=> response["club"]["tag"]
 print(name, trophies, club)
 ```
 
