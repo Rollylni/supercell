@@ -1,0 +1,55 @@
+{
+  "warLeague": {
+    "name": {},
+    "id": 0
+  },
+  "memberList": [
+    {
+      "league": {
+        "name": {},
+        "id": 0,
+        "iconUrls": {}
+      },
+      "tag": "string",
+      "name": "string",
+      "role": "string",
+      "expLevel": 0,
+      "clanRank": 0,
+      "previousClanRank": 0,
+      "donations": 0,
+      "donationsReceived": 0,
+      "trophies": 0,
+      "versusTrophies": 0
+    }
+  ],
+  "isWarLogPublic": true,
+  "tag": "string",
+  "warFrequency": "string",
+  "clanLevel": 0,
+  "warWinStreak": 0,
+  "warWins": 0,
+  "warTies": 0,
+  "warLosses": 0,
+  "clanPoints": 0,
+  "clanVersusPoints": 0,
+  "requiredTrophies": 0,
+  "labels": [
+    {
+      "name": {},
+      "id": 0,
+      "iconUrls": {}
+    }
+  ],
+  "name": "string",
+  "location": {
+    "localizedName": "string",
+    "id": 0,
+    "name": "string",
+    "isCountry": true,
+    "countryCode": "string"
+  },
+  "type": "string",
+  "members": 0,
+  "description": "string",
+  "badgeUrls": {}
+}

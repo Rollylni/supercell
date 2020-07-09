@@ -1,0 +1,16 @@
+[
+  {
+    "clan": {
+      "tag": "string",
+      "name": "string",
+      "badgeUrls": {}
+    },
+    "versusBattleWins": 0,
+    "tag": "string",
+    "name": "string",
+    "expLevel": 0,
+    "rank": 0,
+    "previousRank": 0,
+    "versusTrophies": 0
+  }
+]

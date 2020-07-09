@@ -1,0 +1,22 @@
+[
+  {
+    "clan": {
+      "tag": "string",
+      "name": "string",
+      "badgeUrls": {}
+    },
+    "league": {
+      "name": {},
+      "id": 0,
+      "iconUrls": {}
+    },
+    "attackWins": 0,
+    "defenseWins": 0,
+    "tag": "string",
+    "name": "string",
+    "expLevel": 0,
+    "rank": 0,
+    "previousRank": 0,
+    "trophies": 0
+  }
+]

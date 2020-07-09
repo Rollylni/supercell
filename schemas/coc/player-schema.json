@@ -1,1 +1,101 @@
-
+{
+  "clan": {
+    "tag": "string",
+    "clanLevel": 0,
+    "name": "string",
+    "badgeUrls": {}
+  },
+  "league": {
+    "name": {},
+    "id": 0,
+    "iconUrls": {}
+  },
+  "role": "string",
+  "attackWins": 0,
+  "defenseWins": 0,
+  "townHallLevel": 0,
+  "townHallWeaponLevel": 0,
+  "versusBattleWins": 0,
+  "legendStatistics": {
+    "currentSeason": {
+      "trophies": 0,
+      "id": "string",
+      "rank": 0
+    },
+    "previousSeason": {
+      "trophies": 0,
+      "id": "string",
+      "rank": 0
+    },
+    "bestSeason": {
+      "trophies": 0,
+      "id": "string",
+      "rank": 0
+    },
+    "previousVersusSeason": {
+      "trophies": 0,
+      "id": "string",
+      "rank": 0
+    },
+    "bestVersusSeason": {
+      "trophies": 0,
+      "id": "string",
+      "rank": 0
+    },
+    "legendTrophies": 0
+  },
+  "troops": [
+    {
+      "level": 0,
+      "name": {},
+      "maxLevel": 0,
+      "village": "string"
+    }
+  ],
+  "heroes": [
+    {
+      "level": 0,
+      "name": {},
+      "maxLevel": 0,
+      "village": "string"
+    }
+  ],
+  "spells": [
+    {
+      "level": 0,
+      "name": {},
+      "maxLevel": 0,
+      "village": "string"
+    }
+  ],
+  "labels": [
+    {
+      "name": {},
+      "id": 0,
+      "iconUrls": {}
+    }
+  ],
+  "tag": "string",
+  "name": "string",
+  "expLevel": 0,
+  "trophies": 0,
+  "bestTrophies": 0,
+  "donations": 0,
+  "donationsReceived": 0,
+  "builderHallLevel": 0,
+  "versusTrophies": 0,
+  "bestVersusTrophies": 0,
+  "warStars": 0,
+  "achievements": [
+    {
+      "stars": 0,
+      "value": 0,
+      "name": {},
+      "target": 0,
+      "info": {},
+      "completionInfo": {},
+      "village": "string"
+    }
+  ],
+  "versusBattleWinCount": 0
+}

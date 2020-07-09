@@ -1,0 +1,77 @@
+{
+  "clan": {
+    "destructionPercentage": {},
+    "tag": "string",
+    "name": "string",
+    "badgeUrls": {},
+    "clanLevel": 0,
+    "attacks": 0,
+    "stars": 0,
+    "expEarned": 0,
+    "members": [
+      {
+        "tag": "string",
+        "name": "string",
+        "mapPosition": 0,
+        "townhallLevel": 0,
+        "opponentAttacks": 0,
+        "bestOpponentAttack": {
+          "order": 0,
+          "attackerTag": "string",
+          "defenderTag": "string",
+          "stars": 0,
+          "destructionPercentage": 0
+        },
+        "attacks": [
+          {
+            "order": 0,
+            "attackerTag": "string",
+            "defenderTag": "string",
+            "stars": 0,
+            "destructionPercentage": 0
+          }
+        ]
+      }
+    ]
+  },
+  "teamSize": 0,
+  "opponent": {
+    "destructionPercentage": {},
+    "tag": "string",
+    "name": "string",
+    "badgeUrls": {},
+    "clanLevel": 0,
+    "attacks": 0,
+    "stars": 0,
+    "expEarned": 0,
+    "members": [
+      {
+        "tag": "string",
+        "name": "string",
+        "mapPosition": 0,
+        "townhallLevel": 0,
+        "opponentAttacks": 0,
+        "bestOpponentAttack": {
+          "order": 0,
+          "attackerTag": "string",
+          "defenderTag": "string",
+          "stars": 0,
+          "destructionPercentage": 0
+        },
+        "attacks": [
+          {
+            "order": 0,
+            "attackerTag": "string",
+            "defenderTag": "string",
+            "stars": 0,
+            "destructionPercentage": 0
+          }
+        ]
+      }
+    ]
+  },
+  "startTime": "string",
+  "state": "string",
+  "endTime": "string",
+  "preparationStartTime": "string"
+}

@@ -1,0 +1,27 @@
+{
+  "tag": "string",
+  "state": "string",
+  "season": "string",
+  "clans": [
+    {
+      "tag": "string",
+      "clanLevel": 0,
+      "name": "string",
+      "members": [
+        {
+          "tag": "string",
+          "townHallLevel": 0,
+          "name": "string"
+        }
+      ],
+      "badgeUrls": {}
+    }
+  ],
+  "rounds": [
+    {
+      "warTags": [
+        "string"
+      ]
+    }
+  ]
+}

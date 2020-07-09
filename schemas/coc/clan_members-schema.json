@@ -1,0 +1,19 @@
+[
+  {
+    "league": {
+      "name": {},
+      "id": 0,
+      "iconUrls": {}
+    },
+    "tag": "string",
+    "name": "string",
+    "role": "string",
+    "expLevel": 0,
+    "clanRank": 0,
+    "previousClanRank": 0,
+    "donations": 0,
+    "donationsReceived": 0,
+    "trophies": 0,
+    "versusTrophies": 0
+  }
+]
